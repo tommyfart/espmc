@@ -11,13 +11,13 @@
     ],
 
     "client": [
-      "com.example.ExampleClient"
+      "com.example.client.ExampleClient"
     ]
   },
 
   "depends": {
     "fabricloader": ">=0.15.0",
     "fabric": "*",
-    "minecraft": "~26.1.2"
+    "minecraft": "26.1.2"
   }
 }
