@@ -10,3 +10,4 @@ public class BlockMenuScreen extends Screen {
     }
 
 }
+
