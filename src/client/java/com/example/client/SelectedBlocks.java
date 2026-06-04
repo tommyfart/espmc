@@ -1,4 +1,4 @@
-package com.example;
+package com.example.client;
 
 import net.minecraft.block.Block;
 
